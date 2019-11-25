@@ -1,1 +1,1 @@
-# BareReactEnv
+# BareReact-ReduxEnv
